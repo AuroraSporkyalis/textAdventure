@@ -1,0 +1,88 @@
+// Specification A1 - Monster class
+// Specification A2 - Random Occupation
+// Specification A3 - Another room
+// Specification B1 - Another command
+// Specification B2 - Monster encounters
+// Specification B3 - More monsters
+// Specification C1 - Five Rooms
+// Specification C2 - Player Name
+// Specification C3 - Input Validation
+// Specification C4 – Abbreviated Room Description
+// Specification C5 - Detailed Look
+
+
+	Rooms rooms[5];
+if (input == 'east') {
+  int roomID = rand() % 5;
+  nextRoom = rooms[roomID]
+  nextRoom.room_id = roomID
+   currentRoom.east = roomID
+   nextRoom.west = currentRoom.room_id
+    rooms[currentRoom.room_id] = currentRoom
+    rooms[nextRoom.room_id] = nextRoom   
+    currentRoom = nextRoom
+    currentRoom.start()   
+}
+
+
+Equipment
+  Warrior
+    Heavy Armmor
+  Adventurer
+  Paladin
+    Light Armor
+  Mage
+    Robes
+
+Weapons
+  Warrior
+  Adventurer
+  Paladin
+    Rusty Sword
+    Dented Shield
+    Worn Bow
+
+    Steel Sword
+    Steel Shield
+
+  Mage
+    Staff of Such and Such (adds y% to spells)
+    Such and So Staff (adds x% to spells)
+
+
+Spells
+  Mage
+    Fireball
+    Heal
+    Ice
+    Shield
+    Arcane Blah
+
+  Paladin
+    Divine Healing
+    Blessed Ward
+
+Treasures
+  Gold, silver, copper (duh)
+  Gems (red, blue, green, purple)
+  Carved figures
+  Strange Crystal
+
+Items
+  Key
+
+
+Potions
+  Weak Healing Potion
+  Healing Potion
+  Strong Healing Potion
+
+Classes(?)
+  Mage
+    You have studied how to manipulate energy and the elements to do your will. You know how to make potions from various herbs.
+  Warrior
+    You have trained with sword and shield. You do not have the patience for magic.
+  Paladin
+    You hold to your faith. You do not believe that it is your place to manipulate forces with magic, instead keeping faith in a higher power to assist you. You have skill with weapons.
+  Adventurer
+    You have some small skill with a sword that you have picked up in your travels, but you have no training with weapons nor magic. You have learned of some healing herbs.
