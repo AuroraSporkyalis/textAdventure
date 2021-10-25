@@ -26,18 +26,8 @@ if (input == 'east') {
 
 
 Equipment
-  Warrior
-    Heavy Armmor
-  Adventurer
-  Paladin
-    Light Armor
-  Mage
-    Robes
 
 Weapons
-  Warrior
-  Adventurer
-  Paladin
     Rusty Sword
     Dented Shield
     Worn Bow
@@ -45,23 +35,16 @@ Weapons
     Steel Sword
     Steel Shield
 
-  Mage
     Staff of Such and Such (adds y% to spells)
     Such and So Staff (adds x% to spells)
 
 
 Spells
-  Mage
     Fireball
     Heal
     Ice
     Shield
     Arcane Blah
-
-  Paladin
-    Divine Healing
-    Blessed Ward
-
 Treasures
   Gold, silver, copper (duh)
   Gems (red, blue, green, purple)
@@ -76,13 +59,3 @@ Potions
   Weak Healing Potion
   Healing Potion
   Strong Healing Potion
-
-Classes(?)
-  Mage
-    You have studied how to manipulate energy and the elements to do your will. You know how to make potions from various herbs.
-  Warrior
-    You have trained with sword and shield. You do not have the patience for magic.
-  Paladin
-    You hold to your faith. You do not believe that it is your place to manipulate forces with magic, instead keeping faith in a higher power to assist you. You have skill with weapons.
-  Adventurer
-    You have some small skill with a sword that you have picked up in your travels, but you have no training with weapons nor magic. You have learned of some healing herbs.
